@@ -1,1 +1,1 @@
-# DIP_Divya-_Patle
+# Digital Image Processing 
